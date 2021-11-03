@@ -24,3 +24,6 @@ You will practice saving changes to your files using Git and GitHub. You will al
 ## Programming assignment (20 points)
 
 Start your programming assignment [here](Exercise-1-programming.ipynb).
+
+## Test
+This is my test text.
