@@ -27,3 +27,6 @@ Start your programming assignment [here](Exercise-1-programming.ipynb).
 
 ## Test
 This is my test text.
+
+## Another test
+Testing
