@@ -30,3 +30,18 @@ This is my test text.
 
 ## Another test
 Testing
+
+## Grading
+
+**Points:**
+
+- Problem 1: 5/5 points
+- Problem 2: 5/5 points
+- Problem 3: 9/9 points
+- Problem 4: 1/1 points
+
+**Total: 20/20 points**
+
+Comments:
+
+Awesome work! :) Thanks for the feedback! In terms of the verbal explanations, both are okay, as long as, the information can be found from the notebook. But a good point, I could clarify that. 
